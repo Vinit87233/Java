@@ -1,0 +1,22 @@
+Input consists of one integer that corresponds to the number of rows.
+Trail Assessment
+18m 00s
+Submit
+Output Format
+The output prints the hollow rhombus pattern.
+CODING
+01
+Sample Input 1:
+4
+Sample Output 1:
+****
+
+* *
+* *
+****
+• Active
+• Attempted
+• Unattempted
+Review
+Explanation:
+Here the input is 4 and hence 4 rows are printed.
